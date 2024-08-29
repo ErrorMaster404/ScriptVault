@@ -39,7 +39,3 @@ Scanning 192.168.1.0/24...
 192.168.1.1 router
 192.168.1.2 laptop
 ```
-
-## License
-
-This script is free to use and distribute. Use at your own risk.
