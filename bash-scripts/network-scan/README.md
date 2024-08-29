@@ -23,7 +23,7 @@ Ensure `nmap` is installed on your system.
 
 ### How It Works
 
-1. **Checks for `nmap`**: If not installed, prompts you to install it.
+1. **Checks for `nmap`**
 2. **Lists available networks**: Select from the displayed networks.
 3. **Scans selected network**: Runs a ping sweep using `nmap` and shows active devices.
 
