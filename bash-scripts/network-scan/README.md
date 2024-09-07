@@ -23,7 +23,7 @@ Ensure `nmap` is installed on your system.
 
 ### How It Works
 
-1. **Checks for `nmap`**: If not installed, prompts you to install it.
+1. **Checks for `nmap`**
 2. **Lists available networks**: Select from the displayed networks.
 3. **Scans selected network**: Runs a ping sweep using `nmap` and shows active devices.
 
@@ -39,7 +39,3 @@ Scanning 192.168.1.0/24...
 192.168.1.1 router
 192.168.1.2 laptop
 ```
-
-## License
-
-This script is free to use and distribute. Use at your own risk.
